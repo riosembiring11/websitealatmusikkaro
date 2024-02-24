@@ -1,0 +1,36 @@
+body {
+    background-image: url(image/image1.jpg);
+    background-size: cover;
+}
+nav {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,140,70,1) 100%);
+    font-size: large;
+    padding: 10px;
+    font-family: cursive;
+}
+
+header {
+    background-color: rgba(215, 200, 50, 0.6);
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin: 5em auto;
+}
+
+footer {
+    text-align: center;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,140,70,1) 100%);
+    font-family: cursive;
+}
+
+.singindungi {
+    color: aliceblue;
+}
+
+.surdam {
+    color: aliceblue;
+}
